@@ -24,7 +24,7 @@ llm-wrapper/
 │   └── function_calling.py    # Function registry & execution
 ├── app.py                     # Streamlit web interface
 ├── requirements.txt           # Python dependencies
-└── tests/                     # Test files
+└── test_*.py                  # Test scripts
 ```
 
 ## 🚀 Quick Start
@@ -32,7 +32,7 @@ llm-wrapper/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-wrapper.git
+git clone https://github.com/Akiff2834/llm-wrapper.git
 cd llm-wrapper
 ```
 
